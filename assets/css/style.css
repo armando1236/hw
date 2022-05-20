@@ -147,7 +147,7 @@ p {
     font-size: 36px;
 }
 
-
+/* changed footer class to semantic element */
 footer {
     padding: 30px;
     clear: both;
@@ -155,6 +155,7 @@ footer {
     text-align: center;
 }
 
+/* changed footer class to semantic element */
 footer h2 {
     font-size: 20px;
 }
