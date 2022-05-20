@@ -139,7 +139,7 @@ p {
     max-height: 200px;
 }
 
-
+/* consolidated all classes into one statement */
 .search-engine-optimization h2,
 .online-reputation-management h2 ,
 .social-media-marketing h2{
@@ -148,13 +148,13 @@ p {
 }
 
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
