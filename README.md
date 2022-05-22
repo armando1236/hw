@@ -7,4 +7,4 @@ Github: https://github.com/armando1236/optimizing-website
 ***
 Used HTML and CSS on Visual Studio Code
 ***
-screenshot: /Users/armandomendezjr/Desktop/ucla-bootcamp/homework/optimizing-website/optimizing-website.html.png
+![image](optimizing-website.html.png)
